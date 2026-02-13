@@ -1,0 +1,7 @@
+{
+  "name": "ArchiBIM Portfolio",
+  "description": "A high-performance architectural and BIM management portfolio designed for recruiters and HR professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
